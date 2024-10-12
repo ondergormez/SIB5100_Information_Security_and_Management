@@ -1,4 +1,4 @@
-# BLM6001 Seminar
+# SIB5100 Information Security and Management
 
 ## Contents
 
