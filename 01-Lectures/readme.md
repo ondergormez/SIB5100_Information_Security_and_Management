@@ -18,7 +18,7 @@ Regarding the weeks;
 - [ ] [11. Week - 11 December 2024 Wednesday](11_11_12_2024.md)
 - [ ] [12. Week - 18 December 2024 Wednesday](12_18_12_2024.md)
 - [ ] [13. Week - 25 December 2024 Wednesday](13_25_12_2024.md)
-- [ ] [14. Week - 1 January 2024 Wednesday](14_01_12_2024.md)
+- [ ] [14. Week - 1 January 2025 Wednesday](14_01_12_2025.md)
 - [ ] [15. Week - 8 January 2025 Wednesday](15_08_01_2025.md)
 
 ## Online Lessons
